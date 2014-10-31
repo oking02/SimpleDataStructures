@@ -1,5 +1,6 @@
 package stack;
 
+import implementations.StackImpl;
 import interfaces.Stack;
 import org.junit.Test;
 

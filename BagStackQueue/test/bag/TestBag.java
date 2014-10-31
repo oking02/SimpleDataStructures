@@ -1,5 +1,6 @@
 package bag;
 
+import implementations.BagImpl;
 import interfaces.Bag;
 import org.junit.Test;
 
