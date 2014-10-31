@@ -27,3 +27,4 @@ Thumbs.db
 workspace.xml
 tasks.xml
 /bin
+*.iml
